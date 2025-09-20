@@ -9,6 +9,8 @@ Matéria da FATEC 2025-2
 <img width="1360" height="606" alt="Captura de tela 2025-09-19 222109" src="https://github.com/user-attachments/assets/efefeec1-4554-4144-aa0e-a946eb42e62a" />
 <img width="1396" height="180" alt="Captura de tela 2025-09-19 222146" src="https://github.com/user-attachments/assets/a0f160d3-b915-46a7-871a-6822b4d6be33" />
 [Atividade 2 - Banco de dados  1 -.xlsx](https://github.com/user-attachments/files/22437345/Atividade.2.-.Banco.de.dados.1.-.xlsx)
+
+
 # Formulas Utilizadas.
 
 Na pergunta Nº 1 utilizamos a formula =MÁXIMOSES, para acharmos o maior valor, =CORRESP para encontrar a linha e =ÍNDICE para encontrar a cadeia produtiva.

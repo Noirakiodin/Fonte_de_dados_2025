@@ -22,4 +22,9 @@ Na pergunta Nº 3 utilizamos a formula =CONT.VALORES com filtragem de dados da c
 Na pergunta N° 4 utilizamos a formula =MED com filtragem de dados da cadeia produtiva, município e ano para dar a média de remuneração.
 
 Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =CORRESP para encontrar a linha e =ÍNDICE para encontrar o município correspondente.
+
+# Atividade 3 - Power BI - Exportação
+<img width="1219" height="732" alt="image" src="https://github.com/user-attachments/assets/4cfb8348-080f-4c44-970c-5a9ca030b1df" />
+
+
  

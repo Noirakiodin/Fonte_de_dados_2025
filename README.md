@@ -3,7 +3,7 @@ Matéria da FATEC 2025-2
 
 ## Atividade1: Apresentação em grupo, utilizamos o software canava
 <img width="1092" height="621" alt="Captura de tela 2025-08-29 222435" src="https://github.com/user-attachments/assets/2eb781f4-2d7c-417e-82a3-2fa409a6599f" />
-
+https://www.canva.com/design/DAGwMOLfn5E/Frl-ibrquVu8SjCXvd6LuQ/edit?utm_content=DAGwMOLfn5E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Atividade 2 - Manipulção de dados Excel
 <img width="1360" height="606" alt="Captura de tela 2025-09-19 222109" src="https://github.com/user-attachments/assets/efefeec1-4554-4144-aa0e-a946eb42e62a" />

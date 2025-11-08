@@ -24,7 +24,8 @@ Na pergunta N° 4 utilizamos a formula =MED com filtragem de dados da cadeia pro
 Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =CORRESP para encontrar a linha e =ÍNDICE para encontrar o município correspondente.
 
 # Atividade 3 - Introdução ao Power BI
-<img width="1344" height="750" alt="image" src="https://github.com/user-attachments/assets/966cff7d-4dc7-4d81-9174-18685e21f64f" />
+![WhatsApp Image 2025-11-06 at 21 04 08](https://github.com/user-attachments/assets/90a72358-8266-4558-a6b9-80c9a4a4a2b7)
+
 
 
 # Atividade 4 - Power BI - Exportação

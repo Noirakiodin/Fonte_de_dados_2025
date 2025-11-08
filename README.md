@@ -35,3 +35,6 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 <img width="1225" height="531" alt="image" src="https://github.com/user-attachments/assets/1c28b86b-7172-4f48-b92c-a2f0b2d9ac95" />
 
 [ANLSSORVETE.ipynb](https://github.com/user-attachments/files/23406411/ANLSSORVETE.ipynb)
+
+# Atividade 6 - Regressão linear
+<img width="483" height="286" alt="image" src="https://github.com/user-attachments/assets/4cc11fdd-4084-4731-8ca5-3a424b9d0cf0" />

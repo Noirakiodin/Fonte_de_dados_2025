@@ -38,3 +38,7 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 
 # Atividade 6 - Regressão linear
 <img width="483" height="286" alt="image" src="https://github.com/user-attachments/assets/4cc11fdd-4084-4731-8ca5-3a424b9d0cf0" />
+
+# Prova banco de dados
+https://github.com/user-attachments/assets/7826b9a2-9100-4f70-87b1-36c76c8e089d
+
